@@ -22,11 +22,17 @@ class String
     
   
   def self.colors # Should return an Array of all the color options
-  
+    colors = []
+    @@colors.each do |color, color_number|
+      colors.push(color)
+    end
+    puts colors
   end
   
-  def self.sample_colors #should print samble output demonstrating all the colors
-  
+  def self.sample_colors #should print sample output demonstrating all the colors
+    @@colors.each do |color, color_number|
+      puts "This is " + color.to_s.send(color)
+    end
   end
 
   
