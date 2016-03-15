@@ -1,8 +1,8 @@
-## **Colorizr**
+# **Colorizr**
 
 Colorizr is a simple gem for colorizing the output in the commandline.
 
-## **Usage**
+# **Usage**
 
 To get up and running:
 ```
@@ -12,7 +12,7 @@ gem install colorizr-0.0.2.gem
 ```
 
 
-# **Sample Code**
+### **Sample Code**
 
 `"Red".red` will print Red in red print.
 
