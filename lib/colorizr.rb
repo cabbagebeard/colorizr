@@ -28,8 +28,6 @@ class String
   end
 
   
-  ## puts "\e[34mThis is blue text.\e[0m"
-  
 end
 
 String.create_colors
