@@ -13,11 +13,13 @@ gem install colorizr-0.0.2.gem
 
 * Try `String.colors` to see a list of available colors. Also try `String.sample_colors` to see those colors for yourself.
 
-### **Sample Code*
+**Sample Code**
 
-* `"Red.red"` will print Red in red print.
-* `"Green".green` will print Green in green print.
-* Can you guess what `"Light Blue".light_blue` will do?
+`"Red".red` will print Red in red print.
+
+`"Green".green` will print Green in green print.
+
+Can you guess what `"Light Blue".light_blue` will do?
 
 
 
