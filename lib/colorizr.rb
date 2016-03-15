@@ -5,9 +5,11 @@ class String
     green: 32,
     yellow: 33,
     blue: 34, 
-    magenta: 35, 
-    cyan: 36,
-    white: 37
+    pink: 95, 
+    light_blue: 96,
+    white: 97,
+    light_grey: 37,
+    
   }
   
   def self.create_colors
