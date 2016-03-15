@@ -1,0 +1,7 @@
+My gem takes advantage of Ruby's metaprogramming by creating new methods for the colors on the fly. It really helped keep my code DRY.
+
+I spent about an hour and a half in total on the project. Probably like 4 hours re-reading the metaprogramming lessons though.
+
+The most rewarding part was when, after numerous re-reads and days to think about it, the metaprogramming basics finally clicked for me.
+
+I still have room to grow on the aspect of _remembering_ to use metaprogramming and other DRY principles. When I was making the sample_colors method, I started by hand-coding each one. Then I kinda smacked myself on the head once I realized that was the exact thing I'm supposed to be avoiding.
