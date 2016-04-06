@@ -9,7 +9,6 @@ class String
     light_blue: 96,
     white: 97,
     light_grey: 37,
-    
   }
   
   def self.create_colors
@@ -20,7 +19,6 @@ class String
     end
   end
     
-  
   def self.colors # Should return an Array of all the color options
     colors = []
     @@colors.each do |color, color_number|
@@ -35,7 +33,6 @@ class String
     end
   end
 
-  
 end
 
 String.create_colors
